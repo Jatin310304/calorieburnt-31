@@ -11,7 +11,7 @@ Kaggle - 2 CSV Files
     
     
 ## Libraries to install 
-Numpy, Pandas, Scikit-Learn, Matlotlib, Seaborn, PyXGBoost
+Numpy, Pandas, Scikit-Learn, Matlotlib, Seaborn, XGBoost
 
 
 ## Platform to Implementation
